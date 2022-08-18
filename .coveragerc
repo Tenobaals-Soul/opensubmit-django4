@@ -1,0 +1,15 @@
+[run]
+branch = True
+source =
+  web/
+  executor/
+
+omit =
+  */setup.py
+  *wsgi.py*
+  */venv/*
+  */migrations*/
+  */tmp/*
+
+
+

@@ -1,3 +1,0 @@
-[console_scripts]
-opensubmit-web = opensubmit.cmdline:console_script
-
