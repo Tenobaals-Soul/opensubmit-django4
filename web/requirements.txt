@@ -1,0 +1,12 @@
+Django>=4.0,<=4.2
+django-bootstrap-form
+djangorestframework>=3.13
+django-grappelli>=3.0
+django-formtools
+requests>=2.28
+social-auth-app-django
+python3-openid
+python-oauth2
+oauthlib>=3.2
+pyjwkest>=1.4.0
+lti

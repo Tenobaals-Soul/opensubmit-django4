@@ -1,0 +1,7 @@
+twine
+wheel
+coverage
+sphinx
+sphinx_rtd_theme
+sphinx-issues
+bumpversion
